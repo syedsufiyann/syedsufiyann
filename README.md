@@ -28,14 +28,5 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedsufiyan888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
