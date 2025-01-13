@@ -15,7 +15,7 @@
 <br/>  
 
 
-## Languages and Tools  
+# 💻 Tech Stack:
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -29,27 +29,13 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedsufiyan888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
